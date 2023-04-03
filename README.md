@@ -1,0 +1,2 @@
+# studytimetable.c
+time table
